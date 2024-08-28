@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://invoceto.github.io/sitemap.html.gz
+Sitemap: https://invoceto.github.io/app/sitemap.html.gz
+Sitemap: https://invoceto.github.io/assets/sitemap.html.gz
+Sitemap: https://invoceto.github.io/css/sitemap.html.gz
+Sitemap: https://invoceto.github.io/includes/sitemap.html.gz
+Sitemap: https://invoceto.github.io/item/sitemap.html.gz
+Sitemap: https://invoceto.github.io/src/sitemap.html.gz
